@@ -20,17 +20,17 @@ subtitle = ""
   name = "Python"
   description = "80%"
 
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+#[[feature]]
+#  icon = "chart-line"
+#  icon_pack = "fas"
+#  name = "Statistics"
+#  description = "100%"  
 
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+#[[feature]]
+#  icon = "camera-retro"
+#  icon_pack = "fas"
+#  name = "Photography"
+#  description = "10%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
@@ -45,6 +45,18 @@ subtitle = ""
   icon = "matlab"
   icon_pack = "custom"
   name = "MATLAB"
-  description = "90%"
+  description = "80%"
+
+  [[feature]]
+   icon = "comsol"
+   icon_pack = "custom"
+   name = "COMSOL Multiphysics"
+   description = "95%"
+
+   [[feature]]
+    icon = "deep-learning"
+    icon_pack = "custom"
+    name = "Machine Learning"
+    description = "80%"
 
 +++
