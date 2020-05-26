@@ -42,7 +42,7 @@ subtitle = ""
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
  [[feature]]
-  icon = "matlab"
+  icon = "whatsapp"
   icon_pack = "custom"
   name = "MATLAB"
   description = "90%"
