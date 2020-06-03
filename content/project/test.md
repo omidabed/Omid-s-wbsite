@@ -1,7 +1,7 @@
 ---
-title: Tunable Metasurfaces Using phase change materials.
-summary: Here we describe how to add a page to your site.
-date: "2018-06-28T00:00:00Z"
+title: Tunable Metasurfaces Using Phase Change Materials
+summary: Design a tunable and high-speed metasurface for beam steering applications in near-IR.
+date: "2020-06-03T000000Z"
 
 # Optional header image (relative to `static/img/` folder).
 header:
