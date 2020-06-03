@@ -86,3 +86,11 @@ Backgrounds can be applied to any section. Here, the *background* option is set 
   - Semiconductor module
 ## MATLAB
   - 4 years experience in scientific programming
+## Machine Learning
+  - Solid background in different kinds of ML algorithms.
+    - supervised learning.
+    - unsupervised learning.
+  - Solid background in Artificial neural network theory
+    - deep neural networks
+    - convolutional neural networks
+    - sequence models(LSTM, recurrent models,...)
