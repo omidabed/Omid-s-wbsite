@@ -22,7 +22,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-color = "navy"
+  color = "navy"
 
   # Background gradient.
   gradient_start = "DarkGreen"
@@ -44,12 +44,7 @@ color = "navy"
 
 [advanced]
  # Custom CSS.
- css_style = "div {
-  column-count: 3;
-}"
-
- # CSS class.
- css_class = ""
+ css_style = ""
 +++
 ## Python libraries:
   - pandas
