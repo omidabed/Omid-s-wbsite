@@ -9,18 +9,18 @@ date: "2020-06-03T000000Z"
 external_link: ""
 
 image:
-  caption: PCM Metasurface
+  caption: PCM metasurface
   focal_point: Smart
 
-#links:
-#- icon: twitter
-#  icon_pack: fab
-#  name: Follow
-#  url: https://twitter.com/georgecushen
-#url_code: ""
-#url_pdf: ""
-#url_slides: ""
-#url_video: ""
+  links:
+  - icon: twitter
+    icon_pack: fab
+    name: Follow
+    url: https://twitter.com/georgecushen
+  url_code: ""
+  url_pdf: ""
+  url_slides: ""
+  url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
