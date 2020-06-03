@@ -54,17 +54,17 @@ social:
   link: https://github.com/omidabed
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 Omid Abed is a graduate Student at the university of Tehran. His research interest are active photonic and artificial deep neural networks. He is experienced in multiphysics simulations. Currently, He is trying to design more efficinet and more precise optical devices with the help of novel optimization methods (e.g, deep learning). In a bigger picture, he dreams about using artificial intelligence to make better devices in every aspect.
