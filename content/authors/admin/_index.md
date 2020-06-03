@@ -18,10 +18,9 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My researrch interests are active photonic devices and deep learning.
+bio: My researrch interests are nanophotonics and deep learning.
 
 interests:
-- Active Photonic Devices
 - Nanophotonics
 - Artificial Neural Networks
 
@@ -67,4 +66,4 @@ email: ""
 # - Researchers
 # - Visitors
 ---
-Omid Abed is a graduate Student at the university of Tehran. His research interest are active photonic and artificial deep neural networks. He is experienced in multiphysics simulations. Currently, He is trying to design more efficinet and more precise optical devices with the help of novel optimization methods (e.g, deep learning). In a bigger picture, he dreams about using artificial intelligence to make better devices in every aspect.
+I'm  a graduate Student at the university of Tehran. My research interest are nanophotonics and artificial neural networks. I'm experienced in multiphysics simulations. Currently, I'm trying to design more efficinet and more precise optical devices with the help of novel optimization methods (e.g, deep learning). In a bigger picture, I dream about using artificial intelligence to make better devices in every aspect.
