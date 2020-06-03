@@ -48,7 +48,7 @@ subtitle = ""
   description = "80%"
 
   [[feature]]
-   icon = "comsol2"
+   icon = "comsol"
    icon_pack = "custom"
    name = "COMSOL Multiphysics"
    description = "95%"
