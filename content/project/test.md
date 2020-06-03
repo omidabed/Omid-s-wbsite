@@ -5,7 +5,7 @@ date: "2020-06-04T00:00:00Z"
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: "Tunable Metasurface using PCM"
+  caption: ""
   image: ""
 ---
 Hi
