@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Academic Kickstart"
+title = "Skills in details"
 subtitle = ""
 
 [design]
@@ -73,3 +73,16 @@ Backgrounds can be applied to any section. Here, the *background* option is set 
 
 **To remove this section, delete `content/home/demo.md`.**
 {{% /alert %}}
+## Python libraries:
+  - pandas
+  - matplotlib
+  - scikit
+  - keras
+  -tensorflow
+## Comsol Multyphysics
+  - Electromagnetics module
+  - Heat Teansfer module
+  - AC/DC module
+  - Semiconductor module
+## MATLAB
+  - 4 years experience in scientific programming
