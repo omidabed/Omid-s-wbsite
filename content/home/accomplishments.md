@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   url = "https://www.coursera.org/specializations/deep-learning?"
   certificate_url = "https://www.coursera.org/account/accomplishments/specialization/3PFKP7MUWWJK"
   date_start = "2019-10-01"
-  date_end = ""2020-03-01""
+  date_end = "2020-03-01"
 #  description = ""
 
 [[item]]
