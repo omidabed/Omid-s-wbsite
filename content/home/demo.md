@@ -44,7 +44,9 @@ color = "navy"
 
 [advanced]
  # Custom CSS.
- css_style = ""
+ css_style = "div {
+  column-count: 3;
+}"
 
  # CSS class.
  css_class = ""
