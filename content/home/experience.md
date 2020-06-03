@@ -34,6 +34,6 @@ date_format = "Jan 2006"
 #  location = "California"
   date_start = "2017-07-01"
   date_end = "2018-01-01"
-  description = """Teaching Assistant in circuit lab. """
+  description = """Teaching Assistant in circuit lab."""
 
 +++
