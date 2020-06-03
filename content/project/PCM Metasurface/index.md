@@ -13,14 +13,14 @@ image:
   focal_point: Smart
 
   links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
-  url_code: ""
-  url_pdf: ""
-  url_slides: ""
-  url_video: ""
+#  - icon: twitter
+#    icon_pack: fab
+#    name: Follow
+#    url: https://twitter.com/georgecushen
+#  url_code: ""
+#  url_pdf: ""
+#  url_slides: ""
+#  url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -29,4 +29,4 @@ image:
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-The aim of this project was to design an efficient, high-speed tunable [metasurface](https://en.wikipedia.org/wiki/Electromagnetic_metasurface) for beam steering applications. the tunability was attained by phase change materials and graphene heaters which have been used to change the optical properties of the phase change material by heating.
+The aim of this project was to design an efficient, high-speed tunable [metasurface](https://en.wikipedia.org/wiki/Electromagnetic_metasurface) for beam steering applications. the tunability was attained by phase change materials and graphene heaters which have been used to change the optical properties of the phase change material by heating. The complete electromagnetic and Joule heating simulation analysis has been done on the proposed structure. This project is a part of my thesis project.
