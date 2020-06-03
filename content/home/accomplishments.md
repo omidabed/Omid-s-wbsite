@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = "https://www.coursera.org/account/accomplishments/specialization/3PFKP7MUWWJK"
   date_start = "2019-10-01"
   date_end = ""2020-03-01""
-  description = ""
+#  description = ""
 
 [[item]]
   organization = "Coursera"
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = "https://www.coursera.org/account/accomplishments/records/489S4FKU9D3E"
   date_start = "2019-05-01"
   date_end = "2019-08-01"
-  description = ""
+#  description = ""
 
 #[[item]]
 #  organization = "DataCamp"
