@@ -20,20 +20,20 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Chief Teaching Assistant"
   company = "University of Tehran"
-  company_url = ""
+#  company_url = ""
   date_start = "2019-07-01"
   date_end = "2020-01-01"
-  description = "Chief Teaching Assistant for Engineering Electromagnetics."
+  description = """Chief Teaching Assistant for Engineering Electromagnetics."""
 #  Responsibilities include:
   """
 
 [[experience]]
   title = "Teaching Assistant"
   company = "University of Tehran"
-  company_url = ""
-  location = "California"
+#  company_url = ""
+#  location = "California"
   date_start = "2017-07-01"
   date_end = "2018-01-01"
-  description = """Teaching Assistant in circuit lab """
+  description = """Teaching Assistant in circuit lab. """
 
 +++
