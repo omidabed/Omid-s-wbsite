@@ -67,4 +67,4 @@ subtitle = ""
     - deep neural networks
     - convolutional neural networks
     - sequence models(LSTM, recurrent models,...)
-{{< figure library="true" src="Graphene.jpg" title="A caption" lightbox="true" >}}
+{{< figure library="true" src="Graphene.svg" title="A caption" lightbox="true" >}}
