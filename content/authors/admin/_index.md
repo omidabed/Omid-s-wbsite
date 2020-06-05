@@ -22,7 +22,7 @@ bio: My researrch interests are nanophotonics and deep learning.
 
 interests:
 - Nanophotonics
-- Artificial Neural Networks
+- Deep Learning
 
 education:
   courses:
