@@ -45,7 +45,8 @@ subtitle = ""
   icon = "matlab"
   icon_pack = "custom"
   name = "MATLAB"
-  description = "80% </br> 1. Hi"
+  description = "80% </br> 1. Hi
+  2.hihi"
 
   [[feature]]
    icon = "comsol"
