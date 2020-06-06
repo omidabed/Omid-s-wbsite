@@ -18,7 +18,7 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "80%"
+  description = "***80%*** </br> • pandas </br> • data visualization </br> • scikit </br> • tensorflow"
 
 #[[feature]]
 #  icon = "chart-line"
@@ -57,6 +57,6 @@ subtitle = ""
     icon = "deep-learning"
     icon_pack = "custom"
     name = "Machine Learning"
-    description = "***80%*** </br> • supervised learning </br> • unsupervised learning </br> • deep neural networks </br> • convolutional neural networks     • sequence models(LSTM, recurrent models,...)"
+    description = "***80%*** </br> • supervised learning </br> • unsupervised learning </br> • deep neural networks </br> • convolutional neural networks </br> • sequence models(LSTM, recurrent models,...)"
 
 +++
