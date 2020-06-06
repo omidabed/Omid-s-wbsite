@@ -51,7 +51,7 @@ subtitle = ""
    icon = "comsol"
    icon_pack = "custom"
    name = "COMSOL Multiphysics"
-   description = "95%"
+   description = "95% </br> •Electromagnetics module </br> •AC/DC module </br> •Semiconductor module "
 
    [[feature]]
     icon = "deep-learning"
