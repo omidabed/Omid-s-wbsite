@@ -45,18 +45,18 @@ subtitle = ""
   icon = "matlab"
   icon_pack = "custom"
   name = "MATLAB"
-  description = "**80%** </br> • 4 years experience in scientific programming"
+  description = "***80%*** </br> • 4 years experience in scientific programming"
 
   [[feature]]
    icon = "comsol"
    icon_pack = "custom"
    name = "COMSOL Multiphysics"
-   description = "95% </br> • Electromagnetics module </br> • AC/DC module </br> • Semiconductor module "
+   description = "***95%*** </br> • Electromagnetics module </br> • AC/DC module </br> • Semiconductor module "
 
    [[feature]]
     icon = "deep-learning"
     icon_pack = "custom"
     name = "Machine Learning"
-    description = "80%"
+    description = "***80%***"
 
 +++
