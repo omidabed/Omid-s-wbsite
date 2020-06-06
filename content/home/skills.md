@@ -57,6 +57,6 @@ subtitle = ""
     icon = "deep-learning"
     icon_pack = "custom"
     name = "Machine Learning"
-    description = "***80%***"
+    description = "***80%*** </br> • supervised learning </br> • unsupervised learning </br> • deep neural networks </br> • convolutional neural networks     • sequence models(LSTM, recurrent models,...)"
 
 +++
