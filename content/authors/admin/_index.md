@@ -21,8 +21,8 @@ organizations:
 bio: My researrch interests are nanophotonics and deep learning.
 
 interests:
-- Nanophotonics
-- Deep Learning
+- Electromagnetic ranging sensors (LIDARs and RADARs)
+- Artificial intelligence
 
 education:
   courses:
