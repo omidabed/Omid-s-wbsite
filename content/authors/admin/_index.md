@@ -66,5 +66,5 @@ email: ""
 # - Researchers
 # - Visitors
 ---
-Hi 👋! I'm Omid
+Hi 👋! I'm Omid </br>
 I'm a graduate Student at the [university of Tehran](https://en.wikipedia.org/wiki/University_of_Tehran). I'm interested in the intersection of electromagnetic devices (like RADARs and LIDARs) and artificial intelligence. I'm also experienced in Multiphysics simulations scientific programming.  
