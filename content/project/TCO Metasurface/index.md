@@ -29,4 +29,4 @@ image:
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-Almost all of tunable [metasurfaces](https://en.wikipedia.org/wiki/Electromagnetic_metasurface) in optical wavelengths could only steer the beam in only one dimension (along x-axis OR y-axis). Here, I proposed a tunable metasurface that is capable to steer the beam in 2 directions (along x AND y axis). The speed and power consumption of this method is superior to PCM metasurfaces. However, the efficiency is significantly lower. The efficiency could be improved by using all-dielectric structures or using optimization methods.
+Almost all of tunable [metasurfaces](https://en.wikipedia.org/wiki/Electromagnetic_metasurface) in optical wavelengths could only steer the beam in only one dimension (along x-axis OR y-axis). Here, I proposed a tunable metasurface that is capable of steering the beam in 2 directions (along x AND y axis). The speed and power consumption of this method is superior to PCM metasurfaces. However, the efficiency is significantly lower. The efficiency could be improved by using all-dielectric structures or using optimization methods.

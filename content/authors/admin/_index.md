@@ -66,4 +66,5 @@ email: ""
 # - Researchers
 # - Visitors
 ---
-I'm  a graduate Student at the university of Tehran. My research interest are nanophotonics and artificial neural networks. I'm experienced in multiphysics simulations. Currently, I'm trying to design more efficinet and more precise optical devices with the help of novel optimization methods (e.g, deep learning). In a bigger picture, I dream about using artificial intelligence to make better devices in every aspect.
+Hi 👋! I'm Omid
+I'm a graduate Student at the [university of Tehran](https://en.wikipedia.org/wiki/University_of_Tehran). I'm interested in the intersection of electromagnetic devices (like RADARs and LIDARs) and artificial intelligence. I'm also experienced in Multiphysics simulations scientific programming.  
