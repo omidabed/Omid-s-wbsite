@@ -37,4 +37,12 @@ date_format = "Jan 2006"
   date_end = "2020-01-01"
   description = """Chief Teaching Assistant for Engineering Electromagnetics."""
   #  Responsibilities include:
+[[experience]]
+  title = "Microcontroller programming Intern"
+  company = "Nira System"
+  #  company_url = ""
+  date_start = "2016-02-01"
+  date_end = "2016-05-01"
+  description = """Learning fundamentals of microcontrollers and helping senior engineers for programming them."""
+  #  Responsibilities include:
 +++
