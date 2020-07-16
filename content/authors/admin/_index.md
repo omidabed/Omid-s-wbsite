@@ -53,9 +53,9 @@ social:
   link: https://github.com/omidabed
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -67,4 +67,4 @@ email: ""
 # - Visitors
 ---
 Hi 👋! I'm Omid </br>
-I'm a graduate Student at [University of Tehran](https://en.wikipedia.org/wiki/University_of_Tehran). I'm interested in the intersection of electromagnetic devices (like RADARs and LIDARs) and artificial intelligence. I'm also experienced in Multiphysics simulation and scientific programming.  
+I'm a graduate Student at [University of Tehran](https://en.wikipedia.org/wiki/University_of_Tehran). I'm interested in the intersection of electromagnetic and nanophotonic devices (like RADARs and LIDARs) and artificial intelligence. I'm also experienced in Multiphysics simulation for nanophotonic design and scientific programming.  
