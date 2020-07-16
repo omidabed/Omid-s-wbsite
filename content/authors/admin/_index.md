@@ -18,10 +18,11 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My researrch interests are nanophotonics and deep learning.
+bio:
 
 interests:
-- Electromagnetic ranging sensors (LIDARs and RADARs)
+- Nanophotonics
+- Applied Electromagnetics
 - Artificial intelligence
 
 education:
@@ -55,7 +56,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: files/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -67,4 +68,4 @@ email: ""
 # - Visitors
 ---
 Hi 👋! I'm Omid </br>
-I'm a graduate Student at [University of Tehran](https://en.wikipedia.org/wiki/University_of_Tehran). I'm interested in the intersection of electromagnetic and nanophotonic devices (like RADARs and LIDARs) and artificial intelligence. I'm also experienced in Multiphysics simulation for nanophotonic design and scientific programming.  
+I'm a graduate Student at [University of Tehran](https://en.wikipedia.org/wiki/University_of_Tehran). I'm interested in the intersection of electromagnetic and nanophotonic devices (like RADARs and LIDARs) and artificial intelligence. I'm also experienced in Multiphysics simulation for nanophotonic design and scientific programming. If you want my conventional resume, You may download it from the link below my image

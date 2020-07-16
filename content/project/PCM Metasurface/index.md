@@ -29,4 +29,4 @@ image:
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-The aim of this project was to design an efficient, high-speed tunable [metasurface](https://en.wikipedia.org/wiki/Electromagnetic_metasurface) for beam steering applications. the tunability was attained by phase change materials and graphene heaters which have been used to change the optical properties of the phase change material by heating. The complete electromagnetic and Joule heating simulation analysis has been done on the proposed structure. This project is a part of my thesis project.
+The aim of this project was to design an efficient, high-speed tunable [metasurface](https://en.wikipedia.org/wiki/Electromagnetic_metasurface) for beam steering applications. the tunability was attained by phase change materials and graphene heaters which have been used to change the optical properties of the phase change materials by injecting heat to them. The complete electromagnetic and Joule heating simulation analysis has been done on the proposed structure. This project is the first part of my MSc thesis.
