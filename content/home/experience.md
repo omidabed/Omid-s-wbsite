@@ -23,8 +23,8 @@ date_format = "Jan 2006"
   company = "Nanophotonics Research Group"
   company_url = "http://www.nanophotonics.ir"
   location = "University of Tehran"
-  date_start = "2018"
-  date_end = "2020"
+  date_start = "2018-06-01"
+  date_end = "2020-09-01"
   description = """Design and simulation of tunable nanophotonic devices """
 
 [[experience]]
