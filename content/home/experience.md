@@ -18,6 +18,14 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[experience]]
+  title = "Researcher"
+  company = "Nanophotonics Research Group"
+  company_url = "http://www.nanophotonics.ir"
+  location = "University of Tehran"
+  date_start = "2018"
+  date_end = "2020"
+  description = """Design and simulation of tunable nanophotonic devices """
 
 [[experience]]
   title = "Teaching Assistant"
@@ -39,7 +47,7 @@ date_format = "Jan 2006"
   #  Responsibilities include:
 
 
-  
+
 [[experience]]
   title = "Microcontroller programming Intern"
   company = "Nira System"
