@@ -49,14 +49,18 @@ social:
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/omidabed
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/omidabed
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
   link: files/CV.pdf
+
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/omid-abed/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -68,4 +72,4 @@ email: ""
 # - Visitors
 ---
 Hi 👋! I'm Omid </br>
-I'm a graduate Student at [University of Tehran](https://en.wikipedia.org/wiki/University_of_Tehran). My research interests include nanophotonics and electromagnetics. I'm particularly interested in the intersection of electromagnetic devices with machine learning. During my M.S studies, I gained experience in multiphysics simulations, scientific programming, and machine learning. If you want my conventional CV, You may download it from the link below my image. 
+I'm a graduate Student at [University of Tehran](https://en.wikipedia.org/wiki/University_of_Tehran). My research interests include nanophotonics and electromagnetics. I'm particularly interested in the intersection of electromagnetic devices with machine learning. During my M.S studies, I gained experience in multiphysics simulations, scientific programming, and machine learning. If you want my conventional CV, You may download it from the link below my image.
