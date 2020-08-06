@@ -58,9 +58,9 @@ social:
   icon_pack: ai
   link: files/CV.pdf
 
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/omid-abed/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/omid-abed/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
