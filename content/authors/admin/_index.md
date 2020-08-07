@@ -72,4 +72,4 @@ email: ""
 # - Visitors
 ---
 Hi 👋! I'm Omid </br>
-I'm a graduate Student at [University of Tehran](https://en.wikipedia.org/wiki/University_of_Tehran). My research interests include nanophotonics and electromagnetics. I'm particularly interested in the intersection of electromagnetic devices with machine learning. During my M.S studies, I gained experience in multiphysics simulations, scientific programming, and machine learning. If you want my conventional CV, You may download it from the link below my image.
+I'm a graduate Student at [University of Tehran](https://en.wikipedia.org/wiki/University_of_Tehran). My research interests include nanophotonics and electromagnetics. I'm particularly interested in the intersection of electromagnetic devices and machine learning. During my M.S studies, I gained experience in multiphysics simulations, scientific programming, and machine learning. If you want my conventional CV, You may download it from the link below my image.
