@@ -1,28 +1,30 @@
 ---
-title: "An example journal article"
+title: "Free Space Beam Shaping Using phase-change
+ Reconfigurable metasurfaces
+"
 authors:
 - admin
 - Leila Yousefi
-date: "2015-09-01T00:00:00Z"
+date: "2020-09-18T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-09-18T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: In *Source Themes Conference*
+publication_short: In *STC*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Metasurfaces are planar structures that enable us to manipulate electromagnetic wavefronts by using subwavelength elements. Here, we propose a new tunable metasurface based on phase change materials and graphene heaters to operate in the near-IR regime. In the proposed structure, by incorporating electrical heaters, the optical properties of the phase change material layer and, consequently, the metasurface response can be adjusted. Finally, to investigate the potential capability of the proposed metasurface as a free space beam shaper, its beam steering capability is investigated.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We showed beam steering capability of a novel phase change material based tunable metasurface.
 
 tags:
 - Source Themes
