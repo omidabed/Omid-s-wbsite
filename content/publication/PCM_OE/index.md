@@ -26,7 +26,7 @@ summary: We proposed a voltage-controlled tunable meatsurface that can steer the
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 links:
 #- name: Custom Link
