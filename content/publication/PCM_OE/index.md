@@ -22,10 +22,11 @@ publication_short: ""
 abstract: Tunable metasurfaces enable us to dynamically control light at subwavelength scales. Here, using phase change materials and transparent graphene heaters, a new structure is proposed to develop tunable metasurfaces which support the first-order Mie-type resonance in the near-IR regime. In the proposed structure, by adjusting the bias voltage applied to transparent graphene heaters, the crystallization level of the phase change material  is controlled independently, which in turn modifies the response of the metasurface. The proposed metasurface is able to modulate the phase of the reflected wave in the range of 0° to -270° at the telecommunication wavelength of λ = 1.55 μm. A comprehensive Joule heating analysis is performed to investigate the thermal characterizations of the proposed structure. The results of this analysis show that there is a suitable thermal isolation between adjacent unit cells, making individual control on unit cells possible. The potential ability of the proposed metasurface as a beam steering device is also demonstrated. By using proposed unit cells, a beam-steering optical device is designed and numerically studied. This study shows that the device can reflect a light normally incident on it in the range of ±65° with reasonably low sidelobe levels. The proposed structure can be used in developing low-cost electrically steering Lidars.
 
 # Summary. An optional shortened abstract.
-summary: We proposed a voltage-controlled tunable meatsurface that can steer the beam in a 130° degrees range.
+summary: We proposed a voltage-controlled tunable meatsurface capable of steering the beam in a 130° range.
 
 tags:
-- Source Themes
+- Beam steering
+- Metasurface
 featured: true
 
 #links:
