@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Student
+role: Electrical Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: University of Tehran
+- name: ""
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
