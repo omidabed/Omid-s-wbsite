@@ -38,6 +38,16 @@ date_format = "Jan 2006"
   date_end = "2019-08-01"
 #  description = ""
 
+[[item]]
+  organization = "Sharif University of Technology"
+  organization_url = "https://pedu.sharif.edu/"
+  title = "Silicon Photonics Design, Fabrication and Data Analysis"
+  url = "https://pedu.sharif.edu/certificate?code=AC-97-EE-10555"
+  certificate_url = "https://pedu.sharif.edu/certificate?code=AC-97-EE-10555"
+  date_start = "2018-06-01"
+  date_end = "2018-09-01"
+#  description = ""
+
 #[[item]]
 #  organization = "DataCamp"
 #  organization_url = "https://www.datacamp.com"
