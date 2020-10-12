@@ -45,7 +45,7 @@ featured: true
 image:
   caption: 'The proposed tunable metasurface'
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
