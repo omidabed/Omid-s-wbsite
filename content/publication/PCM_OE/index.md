@@ -31,7 +31,7 @@ featured: true
 
 #links:
 #- name: Custom Link
-#url_pdf: ''
+url_pdf:  https://doi.org/10.1364/OE.404103 
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''
