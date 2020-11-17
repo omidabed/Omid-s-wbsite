@@ -18,8 +18,8 @@ publishDate: "2020-09-18T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: The 3rd West Asian Symposium on Optical and Millimeter-wave Wireless Communications
+publication_short: WASOWC2020
 
 abstract: Metasurfaces are planar structures that enable us to manipulate electromagnetic wavefronts by using subwavelength elements. Here, we propose a new tunable metasurface based on phase change materials and graphene heaters to operate in the near-IR regime. In the proposed structure, by incorporating electrical heaters, the optical properties of the phase change material layer and, consequently, the metasurface response can be adjusted. Finally, to investigate the potential capability of the proposed metasurface as a free space beam shaper, its beam steering capability is investigated.
 
@@ -45,7 +45,7 @@ url_pdf: files/Abed, Yousefi.pdf
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 
