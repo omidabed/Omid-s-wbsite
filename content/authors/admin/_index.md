@@ -43,9 +43,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:abed.omid20@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Omid_Abed
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
