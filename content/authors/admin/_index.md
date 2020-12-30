@@ -72,4 +72,4 @@ email: ""
 # - Visitors
 ---
 Hi 👋! I'm Omid </br>
-I am an electrical engineer located in Tehran. I have a master of science from [University of Tehran](https://en.wikipedia.org/wiki/University_of_Tehran). My research interests include nanophotonics and electromagnetics. I'm also interested in machine learning. During my studies, I gained experience in multiphysics simulations, scientific programming, and deep learning. Now I'm searching for a well-suited PhD position to continue my studies. If you want my conventional CV, You may download it from the link below my image.
+I am an electrical engineer living in Tehran. I have a master of science from [University of Tehran](https://en.wikipedia.org/wiki/University_of_Tehran). My research interests include nanophotonic and electromagnetic devices. I'm also interested in machine learning. During my studies, I gained experience in multiphysics simulations, scientific programming, and deep learning. Now I'm searching for new challenges in research and industry to gain more experience.
