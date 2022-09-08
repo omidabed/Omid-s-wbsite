@@ -21,8 +21,8 @@ organizations:
 bio:
 
 interests:
-- Nanophotonics
-- Applied Electromagnetics
+- Nano optics
+- Quantum optics
 - Artificial intelligence
 
 education:
@@ -72,4 +72,4 @@ email: ""
 # - Visitors
 ---
 Hi 👋! I'm Omid </br>
-I am an electrical engineer living in Tehran. I have a master of science from [University of Tehran](https://en.wikipedia.org/wiki/University_of_Tehran). My research interests include nanophotonic and electromagnetic devices. I'm also interested in machine learning. During my studies, I gained experience in multiphysics simulations, scientific programming, and deep learning. Now I'm searching for new challenges in research and industry to gain more experience.
+I am an Ph.D. student of applied physics in university of Jena. I got my master's degree in electrical engineering from [University of Tehran](https://en.wikipedia.org/wiki/University_of_Tehran. My research interests include nano and quantum opics. I'm also interested in machine learning. During my studies, I gained experience in multiphysics simulations, scientific programming, and deep learning.
