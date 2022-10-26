@@ -13,9 +13,9 @@ superuser: true
 role: Electrical Engineer
 
 # Organizations/Affiliations
-organizations:
-- name: ""
-  url: ""
+organizations: FSU Jena
+- name: "University of Jena"
+  url: "https://www.iap.uni-jena.de/"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
