@@ -31,7 +31,7 @@ education:
     institution: University of Tehran
     year: 2020
   - course: BSc in Electrical Engineering
-    institution: Azaad University
+    institution: Azad University
     year: 2017
 
 
