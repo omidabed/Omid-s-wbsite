@@ -13,9 +13,9 @@ superuser: true
 role: Electrical Engineer
 
 # Organizations/Affiliations
-organizations: FSU Jena
-- name: "University of Jena"
-  url: "https://www.iap.uni-jena.de/"
+organizations:
+- name: ""
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:omid.abed@uni-jena.de'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:abed.omid20@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Omid_Abed
